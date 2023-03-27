@@ -1,6 +1,6 @@
 # hotels-api
 
-##create .env file and add MONGODB_URI={your_own_uri}
+## create .env file and add MONGODB_URI={your_own_uri}
 
 ## Rest APIs
 
