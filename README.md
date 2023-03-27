@@ -1,5 +1,7 @@
 # hotels-api
 
+##create .env file and add MONGODB_URI={your_own_uri}
+
 ## Rest APIs
 
 ### Get first 10 hotel
